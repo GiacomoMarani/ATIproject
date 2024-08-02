@@ -18,7 +18,7 @@ menu:
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'twitter', link:    'https://x.com/ATIproject_/'}
+- {icon: 'linkedin', link:  'https://it.linkedin.com/company/atiproject'}
 - {icon: 'facebook', link:   'https://www.facebook.com/atiproject/?locale=it_IT'}
 - {icon: 'instagram', link:  'https://www.instagram.com/atiproject/?hl=it'}
 - {icon: 'envelope', link:   'mailto:info@atiproject.com'}
