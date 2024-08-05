@@ -1,5 +1,5 @@
 .site-header {
-  min-height: 70px;
+  min-height: 50px;
   width: $container-width;
   position: fixed;
   background-color: white;
@@ -9,7 +9,7 @@
 }
 @media (max-width: $container-width) {
   .site-header {
-    min-height: 70px;
+    min-height: 50px;
     width: 95vw;
     position: fixed;
     background-color: white;
