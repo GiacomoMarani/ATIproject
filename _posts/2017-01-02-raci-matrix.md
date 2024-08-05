@@ -22,15 +22,8 @@ image: city-1.jpg
     height: 720px !important;
     border: 1px solid #ddd; /* Optional: Adds a border */
   }
-  /* Ensure the parent containers are not restricting the width */
-  .page-content {
-    max-width: none !important;
-    width: 100% !important;
-  },
-  .content-wrapper,
-  .container 
 </style>
 
-<div class="centered-iframe-container">
-  <iframe class="centered-iframe" src="https://docs.google.com/spreadsheets/d/1xvmsDddMmlL2jauM2-JBBFZMo3PSgp-E/edit?usp=sharing&ouid=109229415087201727842&rtpof=true&sd=true/preview"></iframe>
+<div class="centered-iframe">
+  <iframe src="https://docs.google.com/spreadsheets/d/1xvmsDddMmlL2jauM2-JBBFZMo3PSgp-E/edit?usp=sharing&ouid=109229415087201727842&rtpof=true&sd=true/preview"></iframe>
 </div>
