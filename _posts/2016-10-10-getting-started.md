@@ -22,7 +22,6 @@ image: city-1.jpg
     height: 720px !important;
     border: 1px solid #ddd; /* Optional: Adds a border */
   }
-
 </style>
 
 <div class="centered-iframe">

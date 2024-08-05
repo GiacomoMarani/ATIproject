@@ -11,17 +11,24 @@ image: city-1.jpg
 
 
 <style>
-  .centered-iframe-container {
+  .centered-iframe {
     display: flex;
     justify-content: center;
-    width: 100%;
+    margin: 20px 0; /* Optional: Adds some vertical spacing */
   }
 
-  .centered-iframe {
-    width: 1720px;
-    height: 720px;
+  .centered-iframe iframe {
+    width: 1720px !important;
+    height: 720px !important;
     border: 1px solid #ddd; /* Optional: Adds a border */
   }
+  /* Ensure the parent containers are not restricting the width */
+  .page-content {
+    max-width: none !important;
+    width: 100% !important;
+  },
+  .content-wrapper,
+  .container 
 </style>
 
 <div class="centered-iframe-container">
