@@ -22,9 +22,16 @@ image: city-1.jpg
     height: 720px !important;
     border: 1px solid #ddd; /* Optional: Adds a border */
   }
+
+  /* Ensure the parent containers are not restricting the width */
+  .page-content,
+  .content-wrapper,
+  .container {
+    max-width: none !important;
+    width: 100% !important;
+  }
 </style>
 
 <div class="centered-iframe">
   <iframe src="https://docs.google.com/spreadsheets/d/1FS4Cqrqz9VxhTPlI0BiTIqUaCVhsjoSNzl5w7k199hU/edit?usp=sharing/preview"></iframe>
 </div>
-
