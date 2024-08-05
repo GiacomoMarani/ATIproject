@@ -11,26 +11,19 @@ image: city-1.jpg
 
 
 <style>
-  .centered-iframe {
+  .centered-iframe-container {
     display: flex;
     justify-content: center;
-    margin: 20px 0; /* Optional: Adds some vertical spacing */
+    width: 100%;
   }
 
-  .centered-iframe iframe {
-    width: 1720px !important;
-    height: 720px !important;
+  .centered-iframe {
+    width: 1720px;
+    height: 720px;
     border: 1px solid #ddd; /* Optional: Adds a border */
   }
-  /* Ensure the parent containers are not restricting the width */
-  .page-content {
-    max-width: none !important;
-    width: 100% !important;
-  },
-  .content-wrapper,
-  .container 
 </style>
 
-<div class="centered-iframe">
-  <iframe src="https://docs.google.com/spreadsheets/d/1xvmsDddMmlL2jauM2-JBBFZMo3PSgp-E/edit?usp=sharing&ouid=109229415087201727842&rtpof=true&sd=true/preview"></iframe>
+<div class="centered-iframe-container">
+  <iframe class="centered-iframe" src="https://docs.google.com/spreadsheets/d/1xvmsDddMmlL2jauM2-JBBFZMo3PSgp-E/edit?usp=sharing&ouid=109229415087201727842&rtpof=true&sd=true/preview"></iframe>
 </div>
