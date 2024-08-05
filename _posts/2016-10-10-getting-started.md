@@ -18,7 +18,7 @@ image: city-1.jpg
   }
 
   .centered-iframe iframe {
-    width: 1000px !important;
+    width: 2000px !important;
     height: 720px !important;
     border: 1px solid #ddd; /* Optional: Adds a border */
   }
