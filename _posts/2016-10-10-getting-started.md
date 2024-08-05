@@ -10,6 +10,21 @@ image: city-1.jpg
 [NOP-MSS_ModelSharedSettings](https://docs.google.com/spreadsheets/d/1FS4Cqrqz9VxhTPlI0BiTIqUaCVhsjoSNzl5w7k199hU/edit?gid=0#gid=0)
 
 
-<iframe src="https://docs.google.com/spreadsheets/d/1FS4Cqrqz9VxhTPlI0BiTIqUaCVhsjoSNzl5w7k199hU/edit?usp=sharing
-/preview" width="1000" height="720"></iframe>
+<style>
+  .centered-iframe {
+    display: flex;
+    justify-content: center;
+    margin: 20px 0; /* Optional: Adds some vertical spacing */
+  }
+
+  .centered-iframe iframe {
+    width: 1000px;
+    height: 720px;
+    border: 1px solid #ddd; /* Optional: Adds a border */
+  }
+</style>
+
+<div class="centered-iframe">
+  <iframe src="https://docs.google.com/spreadsheets/d/1FS4Cqrqz9VxhTPlI0BiTIqUaCVhsjoSNzl5w7k199hU/edit?usp=sharing/preview"></iframe>
+</div>
 
