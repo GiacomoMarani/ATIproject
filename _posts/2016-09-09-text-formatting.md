@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Speckle 3D Connector"
 author: "Giacomo Marani"
 categories: sample
