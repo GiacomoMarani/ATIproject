@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Speckle 3D Connector"
-author: "Giacomo Marani"
-categories: sample
-tags: [sample]
-image: Website-Featured-Image.png
+# author: "Giacomo Marani"
+# categories: sample
+# tags: [sample]
+# image: Website-Featured-Image.png
 ---
 
 
