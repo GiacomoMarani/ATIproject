@@ -11,4 +11,5 @@ image: city-1.jpg
 
 
 <iframe src="https://docs.google.com/spreadsheets/d/1FS4Cqrqz9VxhTPlI0BiTIqUaCVhsjoSNzl5w7k199hU/edit?usp=sharing
-/preview" width="600" height="400"></iframe>
+/preview" width="1000" height="720"></iframe>
+
