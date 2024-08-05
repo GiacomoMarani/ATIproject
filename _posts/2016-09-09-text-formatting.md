@@ -7,6 +7,15 @@ tags: [sample]
 image: Website-Featured-Image.png
 ---
 
+<style>
+  .page-content iframe {
+    display: block;
+    margin: 20px auto;
+    max-width: 100%;
+    height: 720px !important; /* Altezza specifica per l'iframe */
+    border: 1px solid #ddd; /* Bordo opzionale */
+  }
+</style>
 
 <iframe title="Speckle" src="https://app.speckle.systems/projects/86d4d1ad64/models/cf21bc8b8a#embed=%7B%22isEnabled%22%3Atrue%7D" width="1000" height="720" frameborder="0"></iframe>
 
