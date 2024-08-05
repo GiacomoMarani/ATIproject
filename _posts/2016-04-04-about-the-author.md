@@ -7,7 +7,7 @@ tags: [sample]
 image: ATIProject.jpg
 ---
 
-Exploring new ways to enrich the lives of the people who live in our buildings
+## Exploring new ways to enrich the lives of the people who live in our buildings
 
 «Architecture is the inspiration of everyday living. We seek a balance between the various disciplines, to give structure to creativity. This allows us to shape a single integrated project, which goes beyond particularities and is the spokesperson for our overall vision».
 

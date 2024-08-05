@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Sample Posts
+title: Speckle
 category: sample
-permalink: /sample-posts
+permalink: /speckle3D
 ---
