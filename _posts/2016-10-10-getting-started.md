@@ -18,18 +18,11 @@ image: city-1.jpg
   }
 
   .centered-iframe iframe {
-    width: 2000px !important;
+    width: 1720px !important;
     height: 720px !important;
     border: 1px solid #ddd; /* Optional: Adds a border */
   }
 
-  /* Ensure the parent containers are not restricting the width */
-  .page-content,
-  .content-wrapper,
-  .container {
-    max-width: none !important;
-    width: 100% !important;
-  }
 </style>
 
 <div class="centered-iframe">
