@@ -23,12 +23,12 @@ image: city-1.jpg
     border: 1px solid #ddd; /* Optional: Adds a border */
   }
   /* Ensure the parent containers are not restricting the width */
-  .page-content,
-  .content-wrapper,
-  .container {
+  .page-content {
     max-width: none !important;
     width: 100% !important;
-  }
+  },
+  .content-wrapper,
+  .container 
 </style>
 
 <div class="centered-iframe">
