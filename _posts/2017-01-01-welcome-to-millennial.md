@@ -12,7 +12,7 @@ image: cuba-1.jpg
   .responsive-iframe {
     position: relative;
     overflow: hidden;
-    width: 2000px !important;
+    width: 100%;
     padding-top: 56.25%; /* 16:9 Aspect Ratio */
   }
 
@@ -20,7 +20,7 @@ image: cuba-1.jpg
     position: absolute;
     top: 0;
     left: 0;
-    width: 2000px !important;
+    width: 100%;
     height: 100%;
     border: 0;
   }
