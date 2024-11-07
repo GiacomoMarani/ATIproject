@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "MSS - Model Shared Settings - Summary"
-author: "Paul Le"
+author: "Luca Ofria"
 categories: documentation
 tags: [documentation,sample]
 image: city-1.jpg
