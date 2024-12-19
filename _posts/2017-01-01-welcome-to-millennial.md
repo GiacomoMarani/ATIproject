@@ -19,6 +19,13 @@ image: cuba-1.jpg
     border: none; /* Bordo opzionale */
     box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); /* Ombra leggera */
   }
+  .dashboard-title {
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    margin: 30px 0 10px;
+    color: #333; /* Colore del testo */
+  }
 </style>
 
 <iframe title="Dashboard Power BI 1" 
@@ -26,6 +33,8 @@ image: cuba-1.jpg
         loading="lazy" 
         frameborder="0" 
         allowfullscreen></iframe>
+
+<div class="dashboard-title">Analisi Avanzata</div>
 
 <iframe title="Dashboard Power BI 2" 
         src="https://app.powerbi.com/view?r=eyJrIjoiNDZiZWY1ZDctYmUzMS00NmIwLTlkMjEtZjFiZmY3NGFlMWI5IiwidCI6IjZlY2FkODZiLWUwYjktNDFjNi1iMjcyLTU1MmZlMDJkMmUxMSIsImMiOjl9" 
