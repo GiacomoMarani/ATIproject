@@ -9,13 +9,20 @@ image: cuba-1.jpg
 
 
 <style>
-  .page-content iframe {
-    display: block;
-    margin: 20px auto;
-    max-width: 100%;
-    width: 1280px !important;
-    height: 720px !important; /* Altezza specifica per l'iframe */
-    border: 1px solid #ddd; /* Bordo opzionale */
+  .responsive-iframe {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    padding-top: 56.25%; /* 16:9 Aspect Ratio */
+  }
+
+  .responsive-iframe iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
   }
 </style>
 
