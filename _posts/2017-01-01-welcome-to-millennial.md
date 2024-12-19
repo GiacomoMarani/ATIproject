@@ -28,4 +28,7 @@ image: cuba-1.jpg
 
 <div class="responsive-iframe">
   <iframe src="https://app.powerbi.com/view?r=eyJrIjoiNjA3MjU0YTQtZDRmNi00YmQ2LThlYzktNDdlMDJmNTk0NjRjIiwidCI6IjZlY2FkODZiLWUwYjktNDFjNi1iMjcyLTU1MmZlMDJkMmUxMSIsImMiOjl9&pageName=ReportSection27dc61714dd3633a5c09" allowfullscreen></iframe>
+
+  <iframe title="5172_2_ASOXX_XX_VS_COO_6000" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNDZiZWY1ZDctYmUzMS00NmIwLTlkMjEtZjFiZmY3NGFlMWI5IiwidCI6IjZlY2FkODZiLWUwYjktNDFjNi1iMjcyLTU1MmZlMDJkMmUxMSIsImMiOjl9" frameborder="0" allowFullScreen="true"></iframe>
+  
 </div>
